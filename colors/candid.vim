@@ -130,7 +130,7 @@ call <sid>hi('WildMenu', s:raisin_black, s:isabelline, 'bold', {})
 " http://vimdoc.sourceforge.net/htmldoc/syntax.html
 "----------------------------------------------------
 " {{{
-call <sid>hi('Comment', s:viridian, s:none, 'italic', {})
+call <sid>hi('Comment', s:viridian, s:background, 'italic', {})
 
 call <sid>hi('Constant', s:sea_serpent, s:none, 'none', {})
 call <sid>hi('String', s:mustard, s:none, 'none', {})
