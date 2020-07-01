@@ -72,7 +72,7 @@ call <sid>hi('CursorColumn', s:none, s:sea_serpent, 'none', {})
 call <sid>hi('ColorColumn', s:none, s:mummys_tomb, 'none', {})
 call <sid>hi('FoldColumn', s:mummys_tomb, s:raisin_black, 'none', {})
 call <sid>hi('SignColumn', s:none, s:raisin_black, 'none', {})
-call <sid>hi('VertSplit', s:mummys_tomb, s:mummys_tomb, 'none', {})
+call <sid>hi('VertSplit', s:mummys_tomb, s:background, 'none', {})
 call <sid>hi('LineNr', s:mummys_tomb, s:raisin_black, 'none', {})
 call <sid>hi('CursorLineNr', s:mustard, s:raisin_black, 'none', {})
 
