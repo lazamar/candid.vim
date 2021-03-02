@@ -12,6 +12,7 @@ let s:colors = {
   \ "grey": get(s:color_store, "grey", {'gui': '#585858', 'cterm256': '240'}),
   \ "none": get(s:color_store, "none", {'gui': 'NONE', 'cterm256': 'NONE'}),
   \ "comment": get(s:color_store, "comment", {'gui': '#4c8273', 'cterm256': '224'}),
+  \ "trueblack": get(s:color_store, "comment", {'gui': '#000000', 'cterm256': '224'}),
   \}
 
 function! candid#GetColors()
