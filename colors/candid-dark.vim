@@ -154,7 +154,7 @@ call <sid>hi('Special', s:eucalyptus, s:none, 'none', {})
 
 call <sid>hi('Underlined', s:none, s:none, 'underline', {})
 
-call <sid>hi('Ignore', s:none, s:none, 'none', {})
+call <sid>hi('Ignore', s:isabelline, s:none, 'none', {})
 
 call <sid>hi('Error', s:tickle_me_pink, s:raisin_black, 'undercurl', {})
 
